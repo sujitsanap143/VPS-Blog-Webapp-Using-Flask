@@ -1,0 +1,2 @@
+FLASK_APP=vps.py
+FLASK_DEBUG=1
